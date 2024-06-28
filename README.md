@@ -11,8 +11,8 @@ This script operates silently in the background to create a controlled environme
 ### Installation
 
 1. Ensure your FiveM server is running and accessible.
-2. Place the `npc_disabler.lua` script in your server's resource folder.
-3. Add `ensure npc_disabler` to your server.cfg to start the script on server startup.
+2. Place the folder script in your server's resource folder.
+3. Add ensure Disable-NPCS to your server.cfg to start the script on server startup.
 
 ### Notes
 
